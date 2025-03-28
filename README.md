@@ -7,7 +7,10 @@ Welcome to the **Poster Mockup Resources** repository! This project is designed 
 ## What Are Poster Mockups?
 Poster mockups are realistic templates that allow you to display your designs in a professional, visually appealing way. They simulate how your artwork would look in real-world settings—like hanging on a wall, framed in a gallery, or displayed at an event. Using mockups saves time and enhances your portfolio or marketing materials.
 
-In this repository, we’ll share free resources, design tips, and links to premium tools like the [<strong>Free Poster Mockup</strong> collection on MockupDaddy](https://www.mockupdaddy.com/poster-mockup), which offers high-quality options for your creative needs.
+In this repository, we’ll share free resources, design tips, and links to premium tools like the **[Free Poster Mockup](https://www.mockupdaddy.com/poster-mockup)** collection on MockupDaddy, which offers high-quality options for your creative needs.
+
+![image](https://github.com/user-attachments/assets/0e7eb2d0-ff15-4637-b020-82496b3f0175)
+
 
 ---
 
@@ -41,10 +44,13 @@ A good mockup matches your design’s vibe. For instance:
 - **Outdoor Scenes**: Great for bold, eye-catching posters.
 - **Hand-Held Mockups**: Ideal for a personal, casual touch.
 
-Explore the [<strong>Free Poster Mockup</strong> category on MockupDaddy](https://www.mockupdaddy.com/poster-mockup) for top-tier options that suit any project.
+Explore the Free Poster Mockup category on MockupDaddy for top-tier options that suit any project.
 
 ### Step 3: Customize Your Mockup
 Use tools like Photoshop, Figma, or Canva to insert your design into a mockup. Adjust lighting, shadows, and backgrounds for realism.
+
+![image](https://github.com/user-attachments/assets/d00c00cf-4b0b-4d00-99b0-e0bfbf363059)
+
 
 ---
 
@@ -72,7 +78,10 @@ Need inspiration? Check out premium collections like the one at MockupDaddy to s
 ## Why Poster Mockups Boost Your Workflow
 Imagine you’ve designed a killer poster for a music festival. Instead of printing it and staging a photo shoot, you drop it into a mockup of a venue wall. Within minutes, you’ve got a professional presentation ready for your client or portfolio. That’s the power of mockups—they’re fast, cost-effective, and impactful.
 
-For high-end examples, the [<strong>Free Poster Mockup</strong> section on MockupDaddy](https://www.mockupdaddy.com/poster-mockup) offers downloadable templates that take your work to the next level.
+For high-end examples, the [Free Poster Mockup section on MockupDaddy offers downloadable templates that take your work to the next level.
+
+![image](https://github.com/user-attachments/assets/03c7a9f4-f76c-4fb3-b883-8430d76e2320)
+
 
 ---
 
@@ -94,11 +103,14 @@ Love poster mockups? Here’s how you can help:
 
 Let’s build a community resource together!
 
+![image](https://github.com/user-attachments/assets/1a763a49-a728-4120-8945-305820679ae4)
+
+
 ---
 
 ## Additional Resources
 Looking for more? Here are some hand-picked links:
-- **[Free Poster Mockup on MockupDaddy](https://www.mockupdaddy.com/poster-mockup)**: A premium collection of poster mockups for professional use.
+- **Free Poster Mockup on MockupDaddy**: A premium collection of poster mockups for professional use.
 - **Dribbble**: Search “poster mockup” for design inspiration.
 - **Unsplash**: Free stock photos to pair with your mockups.
 
@@ -108,12 +120,8 @@ Looking for more? Here are some hand-picked links:
 Poster mockups are a game-changer for designers, and we want to make them accessible to everyone. This repo is a hub for free resources, while pointing you to premium options when you’re ready to scale up. It’s all about empowering creativity without breaking the bank.
 
 ---
-
-## Final Thoughts
 Poster mockups bridge the gap between your imagination and a tangible product. Whether you’re a freelancer, agency, or hobbyist, this repository offers a starting point. Download the free assets, apply the tips, and explore premium collections to take your designs further.
 
 Have questions? Open an issue in this repo, and we’ll get back to you. Happy designing!
 
 ---
-
-**License**: This project is licensed under the MIT License—feel free to use and share!
